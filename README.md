@@ -23,8 +23,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 * Use `otu_ids` as the labels for the bar chart.
 
 * Use `otu_labels` as the hovertext for the chart.
-
-  ![bar Chart](Images/hw01.png)
+![Screenshot of Bar Chart](https://user-images.githubusercontent.com/94502554/161396078-4bd0714e-e93e-4658-9b08-c9de3c5758a6.png)
 
 3. Create a bubble chart that displays each sample.
 
@@ -38,14 +37,16 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` for the text values.
 
-![Bubble Chart](Images/bubble_chart.png)
+![Screenshot of Bubble Chart](https://user-images.githubusercontent.com/94502554/161396085-e1b02365-ff81-4641-82ca-00eecf6cdd8c.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
-
 6. Update all of the plots any time that a new sample is selected.
+
+Full Dashboard view:
+![Screenshot of Dashboard](https://user-images.githubusercontent.com/94502554/161396127-e0958ae0-8ed8-4881-8ec4-52b2c0af5425.png)
+
 
 
